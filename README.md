@@ -1,11 +1,11 @@
-# \<Insegnamento\>
+# Strategia aziendale (37459)
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
-Laurea in Informatica.
+Una raccolta di risorse per l'insegnamento di Strategia aziendale (37459) del
+Corso di Laurea in Informatica.
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
+[Questo sito](https://csunibo.github.io/strategia-aziendale) elenca staticamente
 i contenuti della raccolta. Qui, documenti e presentazioni con estensione
 `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
 convertiti in formato PDF.
